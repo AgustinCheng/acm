@@ -1,4 +1,4 @@
-//有依赖的背包
+//有依赖的背包（简化）
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
