@@ -1,4 +1,4 @@
-//¶àÖØ±³°üÄ£°åÌâ
+//å¤šé‡èƒŒåŒ…æ¨¡æ¿é¢˜
 #include <bits/stdc++.h>
 using namespace std;
 int dp[40005],cost[105],v[105],m[105];
