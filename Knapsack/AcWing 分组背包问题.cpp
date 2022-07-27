@@ -1,4 +1,4 @@
-//·Ö×é±³°üÄ£°åÌâ
+//åˆ†ç»„èƒŒåŒ…æ¨¡æ¿é¢˜
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
