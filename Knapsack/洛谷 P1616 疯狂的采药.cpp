@@ -1,4 +1,4 @@
-//ÍêÈ«±³°üÄ£°åÌâ
+//å®Œå…¨èƒŒåŒ…æ¨¡æ¿é¢˜
 #include<bits/stdc++.h>
 using namespace std;
 long long f[10000005];
