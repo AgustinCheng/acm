@@ -1,4 +1,4 @@
-//01±³°üÄ£°åÌâ
+//01èƒŒåŒ…æ¨¡æ¿é¢˜
 #include<bits/stdc++.h>
 using namespace std;
 int f[1005], c[105], w[105];
